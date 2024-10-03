@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Stuff WebSite</title>
+    <title>My Stuff Site</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,7 +22,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Site</h1>
+    <h1>Welcome to My WebSite</h1>
     <p>This is a simple web page that will contain things that i have made.</p>
 <form method="get" action="(https://github.com/Replix-fr/Replix-fr.github.io/blob/main/CSharpTestCompressed.zip)">
   <button type="submit">CSharpTest download</button>
