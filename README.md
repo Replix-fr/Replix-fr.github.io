@@ -27,5 +27,7 @@
 <form method="get" action="CSharpTestCompressed.zip">
   <button type="submit">CSharpTest download</button>
 </form>
+<form method="get" action="BONK!">
+  <button type="submit">Press to get BONKED!</button>
 </body>
 </html>
