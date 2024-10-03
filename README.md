@@ -1,11 +1,9 @@
-# Replix-fr.github.io
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Web Page</title>
+    <title>My Stuff Site</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -24,14 +22,10 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
-    <p>This is a simple web page with HTML, CSS, and JavaScript.</p>
-    <button onclick="displayMessage()">Click Me</button>
-
-    <script>
-        function displayMessage() {
-            alert('Hello! You clicked the button.');
-        }
-    </script>
+    <h1>Welcome to My Site</h1>
+    <p>This is a simple web page that will contain things that i have made.</p>
+<form method="get" action="file.doc">
+  <button type="submit">CSharpTest download</button>
+</form>
 </body>
 </html>
