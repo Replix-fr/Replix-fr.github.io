@@ -24,7 +24,7 @@
 <body>
     <h1>Welcome to My WebSite</h1>
     <p>This is a simple web page that will contain things that i have made.</p>
-<form method="get" action="https://github.com/Replix-fr/Replix-fr.github.io/blob/main/CSharpTestCompressed.zip">
+<form method="get" action="CSharpTestCompressed.zip">
   <button type="submit">CSharpTest download</button>
 </form>
 </body>
