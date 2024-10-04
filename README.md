@@ -29,5 +29,12 @@
 </form>
 <form method="get" action="Calculator Program.zip">
   <button type="submit">Calculator Program</button>
+</form>
+<form method="get" action="Rock Paper Scissors.zip">
+  <button type="submit">Rock Paper Scissors</button>
+</form>
+<form method="get" action="Number Guessing Game.zip">
+  <button type="submit">Number Guessing Game</button>
+</form>
 </body>
 </html>
