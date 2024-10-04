@@ -24,10 +24,10 @@
 <body>
     <h1>Welcome to My WebSite</h1>
     <p>This is a simple web page that will contain things that i have made.</p>
-<form method="get" action="CSharpTestCompressed.zip">
-  <button type="submit">CSharpTest download</button>
+<form method="get" action="CSharpTest zip.zip">
+  <button type="submit">CSharpTest (main project)</button>
 </form>
-<form method="get" action="BONK!">
-  <button type="submit">Press to get BONKED!</button>
+<form method="get" action="Calculator Program">
+  <button type="submit">Calculator!</button>
 </body>
 </html>
