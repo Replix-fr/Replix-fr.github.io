@@ -30,7 +30,7 @@
 <form method="get" action="Calculator Program.zip">
   <button type="submit">Calculator Program</button>
 </form>
-<form method="get" action="Rock Paper Scissors.zip">
+<form method="get" action="RockPaperScissors.zip">
   <button type="submit">Rock Paper Scissors</button>
 </form>
 <form method="get" action="Number Guessing Game.zip">
