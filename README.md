@@ -36,5 +36,14 @@
 <form method="get" action="Number Guessing Game.zip">
   <button type="submit">Number Guessing Game</button>
 </form>
+<form method="get" action="Spam.zip">
+  <button type="submit">Spam Thing</button>
+</form>
+<form method="get" action="Basic Shape Maker.zip">
+  <button type="submit">Basic Shape Maker</button>
+</form>
+<form method="get" action="Dice Roll.zip">
+  <button type="submit">Roll a Dice</button>
+</form>
 </body>
 </html>
